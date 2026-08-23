@@ -153,4 +153,31 @@ Topics covered:
 
 👉 [View Module 3 –Combinational and Sequential Optimisations ](./Module-3%3ACombinational%20and%20Sequential%20Optimisations)
 
+### 🔹 Module 4 — GLS, Blocking vs Non-Blocking & Synthesis-Simulation Mismatch
+- Gate-Level Simulation (GLS)
+- RTL vs Gate-Level Netlist
+- Functional GLS
+- Timing GLS
+- IVerilog GLS flow
+- Synthesis-simulation mismatch
+- Missing sensitivity list
+- `always @(*)`
+- Blocking assignments (`=`)
+- Non-blocking assignments (`<=`)
+- Blocking vs non-blocking assignments
+- Sequential logic coding guidelines
+- Combinational logic coding guidelines
+- Blocking assignment caveats
+- Statement-order dependency
+- Ternary operator MUX
+- Yosys synthesis flow
+- Gate-level netlist generation
+- GLS using gate-level libraries
+- GTKWave waveform verification
+- Practical GLS experiments
+👉 [View Module 4 –GLS,blocking v/s non-blocking and synthesis simulation mismatch ](.//Module-4%3AGLS%2Cblocking%20v/s%20non-blocking%20and%20synthesis%20simulation%20mismatch)
+
+
+
+
 
