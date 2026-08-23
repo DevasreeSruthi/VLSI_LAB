@@ -122,3 +122,35 @@ Standard Cell Mapping
 Netlist Generation
      ↓
 Netlist Verification
+```
+---
+
+### 🔹 Module 3 – Combinational & Sequential Optimization
+
+In Module 3, I learned how synthesis tools optimize digital circuits by removing redundant and unnecessary logic while preserving the intended functionality.
+
+#### Combinational Optimization
+
+Topics covered:
+
+- Constant propagation
+- Boolean logic optimization
+- K-Map
+- Quine–McCluskey method
+- Multiplexer optimization
+- Removal of redundant logic
+
+#### Sequential Optimization
+
+Topics covered:
+
+- Sequential constant propagation
+- D flip-flop optimization
+- State optimization
+- Retiming
+- Sequential logic cloning
+- Counter optimization
+
+
+
+
