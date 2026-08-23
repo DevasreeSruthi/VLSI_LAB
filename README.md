@@ -125,7 +125,7 @@ Netlist Verification
 ```
 ---
 
-### 🔹 Module 3 – Combinational & Sequential Optimization
+# 🔹 Module 3 – Combinational & Sequential Optimization
 
 In Module 3, I learned how synthesis tools optimize digital circuits by removing redundant and unnecessary logic while preserving the intended functionality.
 
