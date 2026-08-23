@@ -153,7 +153,7 @@ Topics covered:
 
 👉 [View Module 3 –Combinational and Sequential Optimisations ](./Module-3%3ACombinational%20and%20Sequential%20Optimisations)
 
-### 🔹 Module 4 — GLS, Blocking vs Non-Blocking & Synthesis-Simulation Mismatch
+# 🔹 Module 4 — GLS, Blocking vs Non-Blocking & Synthesis-Simulation Mismatch
 - Gate-Level Simulation (GLS)
 - RTL vs Gate-Level Netlist
 - Functional GLS
