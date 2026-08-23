@@ -151,6 +151,6 @@ Topics covered:
 - Sequential logic cloning
 - Counter optimization
 
-
+👉 [View Module 3 –Combinational and Sequential Optimisations ](./Module-3%3ACombinational%20and%20Sequential%20Optimisations)
 
 
