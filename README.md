@@ -177,6 +177,25 @@ Topics covered:
 - Practical GLS experiments
 👉 [View Module 4 –GLS,blocking v/s non-blocking and synthesis simulation mismatch ](.//Module-4%3AGLS%2Cblocking%20v/s%20non-blocking%20and%20synthesis%20simulation%20mismatch)
 
+# 📘 Module 5: Optimisation in Synthesis
+
+- `if / else if / else` constructs
+- `case` statements
+- Priority logic and priority encoding
+- Incomplete assignments and latch inference
+- Partial and overlapping case conditions
+- Procedural `for` loop vs `generate for`
+- Multiplexer (MUX)
+- Demultiplexer (DEMUX)
+- Ripple Carry Adder (RCA)
+- RTL simulation and waveform analysis
+- Yosys synthesis
+- GTKWave waveform visualization
+- RTL-to-synthesis flow
+- Synthesis optimisation techniques
+- Comparison of different RTL coding styles
+
+👉 [Module 5 – Optimisation in Synthesis](https://github.com/DevasreeSruthi/VLSI_LAB/tree/main/Module-5%3AOptimisation%20in%20Synthesis)
 
 
 
